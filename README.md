@@ -43,14 +43,15 @@
 
 <br/>
 <p align="left">
-  <a href="https://simplifycode.io/">
+<!--   <a href="https://simplifycode.io/"> -->
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Andrei&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiLondon&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
 
-[![Andrei's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrei&custom_title=Andrei's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://simplifycode.io/)
+[![Andrei's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrei&custom_title=Andrei's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+<!--   <a href="https://simplifycode.io/"> -->
 
 <p align="center">
   <a href="https://simplifycode.io/">
