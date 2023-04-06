@@ -4,10 +4,7 @@
 
 <p>
 <div align="center" target="_blank">
-<!--   <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social"> -->
   <img src="https://img.shields.io/github/followers/AndreiLondon?style=social">
-<!--   <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank"> -->
-<!--     <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	 -->
   </a>
 </div>
 </p>
