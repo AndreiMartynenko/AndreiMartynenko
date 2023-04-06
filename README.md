@@ -44,7 +44,7 @@
 <br/>
 <p align="left">
   <a href="https://simplifycode.io/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andrei&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Andrei&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreilondon&theme=radical&hide_border=true">		  
   </a>
 </p>
