@@ -50,7 +50,7 @@
 </p>
 <br>
 
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+[![Andrei's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrei&custom_title=Andrei's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://simplifycode.io/)
 
 <p align="center">
   <a href="https://simplifycode.io/">
