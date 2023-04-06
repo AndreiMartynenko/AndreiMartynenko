@@ -50,6 +50,16 @@
 </p>
 <br>
 
+<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+
+<p align="center">
+  <a href="https://simplifycode.io/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{andreilondon}/count.svg"></p>
+
 
 
 
