@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-#003B57.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
 	
 </div>
 </p>
