@@ -22,6 +22,18 @@
 </div>
 </p>
 
+<p align="center">Contact me:</p>
+<p>
+<div align="center">
+	<a href="https://discord.com/users/911250726376837241" rel="nofollow">
+	 	<img alt="Andrei London Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+	<a href="https://www.linkedin.com/in/andrei-martynenko-737512154/" rel="nofollow">
+  		<img alt="Andrei London LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+	</a>
+</div>
+</p>
+
+
 
 
 
