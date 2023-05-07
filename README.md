@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+World!;I+love+coding!+I+enjoy+to+teach+people+how+code!;&center=true&width=600&height=80"></a> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=24F753&width=435&lines=Hello+World.+I+love+coding!+I+enjoy+teach+people+to+code!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=24F753&width=500&lines=Hello+World.+I+love+coding!+I+enjoy+teach+people+to+code!" alt="Typing SVG" /></a>
 </p>
 <!-- 
 <p>
