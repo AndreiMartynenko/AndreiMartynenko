@@ -27,29 +27,13 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka)
 
 
-
-<p align="center">Contact me:</p>
-<p>
-<div align="center">
-	<a href="https://discord.com/users/911250726376837241" rel="nofollow">
-	 	<img alt="Andrei London Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-	<a href="https://www.linkedin.com/in/andrei-martynenko-737512154/" rel="nofollow">
-  		<img alt="Andrei London LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	</a>
-</div>
-</p>
-
 <p align="center"><img src="https://profile-counter.glitch.me/{andreilondon}/count.svg"></p>
-
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> 
-
-
 
 Hello! My name is Andrei 👋.
 
 I'm a developer that loves simplifying things. 
-I love breaking down complex problems into simple, easy to understand solutions. 
-I currently live in London as a software developer. 🌱 I’m intresting to learn Golang, JS, Rust. In my spare time, I produce music using Logic Pro and Ableton Live.
+I love breaking down complex problems into simple, easy-to-understand solutions. 
+I currently live in London as a software developer. 🌱 I’m interested to learn Golang, JS, and Rust. In my spare time, I produce music using Logic Pro and Ableton Live.
 
 
 <!---
