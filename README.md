@@ -13,8 +13,8 @@
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
 
