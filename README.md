@@ -15,7 +15,7 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 
 ### Technologies
@@ -24,21 +24,22 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{andreilondon}/count.svg"></p>
 
 Hello! My name is Andrei 👋.
 
-I'm a developer who loves simplifying things. 
+I'm a developer who loves simplifying things with a passion for creating innovative solutions. I love working with the latest technologies and continuously learning new things.
 I love breaking down complex problems into simple, easy-to-understand solutions. 
-I currently live in London as a software developer. 🌱 I’m interested to learn Golang, JS, and Rust. I produce music using Ableton Live in my spare time.
+I currently live in London as a software developer. 🌱 I’m interested in learning Golang, Python, and Rust. I produce music using Ableton Live in my spare time.
 
 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-m-737512154/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/GoAndreiGo)
 
 <!---
 AndreiLondon/AndreiLondon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
