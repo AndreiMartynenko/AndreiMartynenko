@@ -15,6 +15,7 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
 ### Technologies
@@ -22,8 +23,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka)
 
 
@@ -35,6 +34,11 @@ I'm a developer who loves simplifying things.
 I love breaking down complex problems into simple, easy-to-understand solutions. 
 I currently live in London as a software developer. 🌱 I’m interested to learn Golang, JS, and Rust. In my spare time, I produce music using Logic Pro and Ableton Live.
 
+
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 <!---
 AndreiLondon/AndreiLondon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
