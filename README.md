@@ -25,6 +25,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
+![gRPC](https://img.shields.io/badge/-gRPC-000?&logo=grpc)
+![REST API](https://img.shields.io/badge/-REST%20API-000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
+
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{andreilondon}/count.svg"></p>
