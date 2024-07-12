@@ -40,7 +40,7 @@
 
 Hello! My name is Andrei 👋.
 
-I'm a developer passionate about simplifying things and creating innovative solutions. I enjoy working with the latest technologies and continuously learning new skills. I love breaking down complex problems into simple, easy-to-understand solutions. Currently, I live in London and work as a software developer. 🌱 I’m interested in learning Golang, Python, and Rust. In my spare time, I produce music using Ableton Live.
+I'm a developer passionate about simplifying things and creating innovative solutions. I enjoy working with the latest technologies and continuously learning new skills. I love breaking down complex problems into simple, easy-to-understand solutions. Currently, I live in London and work as a software developer. 🌱 I’m interested in learning Golang and Rust. In my spare time, I produce music using Ableton Live.
 
 
 ## 📫 Connect with Me
