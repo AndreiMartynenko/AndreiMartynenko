@@ -46,6 +46,8 @@ I'm a developer passionate about simplifying things and creating innovative solu
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-m-737512154/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/GoAndreiGo)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AndreiLindon)
+
 
 <!---
 AndreiLondon/AndreiLondon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
