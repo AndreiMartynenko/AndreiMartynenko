@@ -15,6 +15,7 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 
 
