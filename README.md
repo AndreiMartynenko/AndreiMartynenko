@@ -13,13 +13,36 @@
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+
 
 
 
 ### Technologies
+
+
+![Blockchain](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-000)
+![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
+![Web3](https://img.shields.io/badge/-Web3-000)
+![Solana](https://img.shields.io/badge/-Solana-000?&logo=Solana)
+![Polygon](https://img.shields.io/badge/-Polygon-000?&logo=Polygon)
+![Binance Smart Chain](https://img.shields.io/badge/-Binance%20Smart%20Chain-000?&logo=binance)
+![Chainlink](https://img.shields.io/badge/-Chainlink-000?&logo=Chainlink)
+![The Graph](https://img.shields.io/badge/-The%20Graph-000?&logo=TheGraph)
+![IPFS](https://img.shields.io/badge/-IPFS-000?&logo=ipfs)
+![Arbitrum](https://img.shields.io/badge/-Arbitrum-000?&logo=arbitrum)
+![Optimism](https://img.shields.io/badge/-Optimism-000?&logo=optimism)
+![Web3](https://img.shields.io/badge/-Web3-000)
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-000)
+![Hardhat](https://img.shields.io/badge/-Hardhat-000?&logo=Hardhat)
+![Truffle](https://img.shields.io/badge/-Truffle-000?&logo=Truffle)
+![Alchemy](https://img.shields.io/badge/-Alchemy-000?&logo=Alchemy)
+![Moralis](https://img.shields.io/badge/-Moralis-000?&logo=Moralis)
+![WalletConnect](https://img.shields.io/badge/-WalletConnect-000?&logo=WalletConnect)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -33,10 +56,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
-![Blockchain](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-000)
-![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
-![Web3](https://img.shields.io/badge/-Web3-000)
+
 
 
 
