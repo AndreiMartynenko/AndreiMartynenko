@@ -33,6 +33,10 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
+![Blockchain](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-000)
+![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
+![Web3](https://img.shields.io/badge/-Web3-000)
 
 
 
