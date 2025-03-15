@@ -40,7 +40,7 @@
 
 Hello! My name is Andrei 👋.
 
-I'm a developer passionate about simplifying things and creating innovative solutions. I enjoy working with the latest technologies and continuously learning new skills. I love breaking down complex problems into simple, easy-to-understand solutions. Currently, I live in London and work as a software developer. 🌱 I’m interested in learning Golang and Python. In my spare time, I produce music using Ableton Live.
+A software engineer skilled in Golang and Solidity with a passion for Web3 and blockchain technologies. Developed own blockchain platform, Tendō Chain, using Golang for backend services and Solidity for smart contracts. Enjoys simplifying complex problems into clear, efficient solutions. Currently based in London. In my spare time, I produce music using Ableton Live.
 
 
 ## 📫 Connect with Me
