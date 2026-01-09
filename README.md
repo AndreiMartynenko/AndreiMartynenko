@@ -1,14 +1,8 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+World!;I+love+coding!+I+enjoy+to+teach+people+how+code!;&center=true&width=600&height=80"></a> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=2000&color=24F753&width=600&lines=Hello+World!+ I+love+coding+and+enjoy+teach+people+to+code!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&pause=2000&color=24F753&width=700&lines=Backend+Software+Engineer+in+Go;Fintech+%7C+Trading+Systems+%7C+Real-Time+Data;Building+Reliable+and+Low-Latency+Backends" />
+</a>
 </p>
-<!-- 
-<p>
-<div align="center" target="_blank">
-  <img src="https://img.shields.io/github/followers/AndreiLondon?style=social">
-  </a>
-</div>
-</p> -->
 
 ### Languages
 
