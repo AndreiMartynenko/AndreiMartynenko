@@ -58,9 +58,14 @@
 
 Hello! My name is Andrei 👋.
 
-Backend Software Engineer focused on Golang and backend systems for data-driven and fintech applications. Experienced in building RESTful APIs, integrating external data providers, and designing
-reliable backend services with attention to performance and correctness. Backed by 10+ years in banking (AML/KYC, risk, compliance), bringing strong domain knowledge of financial systems and operational reliability. Currently developing Go backend services with hands-on experience in concurrency,asynchronous processing, and market data pipelines.Enjoys simplifying complex problems into clear, efficient solutions. 
-Currently based in London. In my spare time, I produce music using Ableton Live.
+I’m a **Backend Software Engineer** specializing in **Golang** and backend systems for **fintech, trading, and data-driven applications**.
+
+I focus on building **reliable, concurrent, and performance-aware backend services**, working with **market data pipelines, external data providers, and asynchronous processing**.
+
+With **10+ years of experience in banking (AML/KYC, risk, compliance)**, I bring strong domain knowledge of financial systems, data integrity, and operational reliability into engineering.
+
+Currently based in **London 🇬🇧**.  
+In my spare time, I produce music using **Ableton Live 🎹**.
 
 
 ## 📫 Connect with Me
